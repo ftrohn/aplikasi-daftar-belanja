@@ -1,0 +1,5 @@
+1|Beras Pulen|5|kg|Sudah Dibeli|Merk Ramos
+4|Gula Pasir|1|kg|Belum Dibeli|
+2|Minyak Goreng|2|liter|Belum Dibeli|Untuk masak kue
+5|Sabun Mandi|3|pcs|Sudah Dibeli|Aroma melati
+3|Telur Ayam|1|kg|Sudah Dibeli|Pilih yang utuh
